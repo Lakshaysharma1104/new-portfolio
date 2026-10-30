@@ -1,0 +1,6 @@
+node_modules
+dist
+.DS_Store
+*.local
+photo-source.jpg
+resume-source.pdf
